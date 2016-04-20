@@ -1,7 +1,7 @@
 name: Beaumarchais Plays
 favicon: null
-layout_spectrum: 0.6067957007326186
-typography_spectrum: 0.4950433934573084
+layout_spectrum: 0.24908
+typography_spectrum: 0.7787
 title: The Plays of Beaumarchais
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.7542466474696994
-  lightness: 0.11842670780606568
+    - '#000000'
+    - '#222220'
+    - '#5e5e5e'
+    - '#9b8066'
+    - '#762e19'
+  brandStrength: 0.5
+  lightness: 0.625
   saturation: 0.38252750085666776
-  rhythmicContrast: 0.914750459138304
+  rhythmicContrast: 1
 purpose: []
